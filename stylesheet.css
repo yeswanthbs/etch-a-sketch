@@ -1,0 +1,30 @@
+#align {
+    text-align : center;
+    color: black;
+    font-style : system-ui;
+    
+}
+
+.color-details {
+    background-color: black;
+    width :20px;
+    height :20px;
+    padding :5px;
+    margin: 4px 4px 4px 4px;
+    transition-property: background-color;
+    transition-duration: 0.3s;
+
+}
+
+#test-display {
+    display: flex;
+    flex-wrap: wrap;
+    padding :50px;
+    width :400px;
+    margin: auto;
+}
+
+.color-details:hover {
+    background-color: aqua;
+
+}
