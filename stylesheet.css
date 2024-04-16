@@ -1,0 +1,24 @@
+#align {
+    text-align : center;
+    color: black;
+}
+
+.color-details {
+    background-color: gainsboro;
+
+}
+
+#test-display {
+    display: flex;
+    flex-wrap: wrap;
+    width :400px;
+    height :400px;
+    margin :auto;
+    background-color: gainsboro;
+    border :2px solid gainsboro;
+}
+
+
+#grid-dimensions {
+    margin-bottom: 20px;
+}
